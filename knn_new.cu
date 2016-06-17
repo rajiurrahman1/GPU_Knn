@@ -7,11 +7,10 @@
 *	the commands should be following
 *		compile - nvcc knn.cu -o knn.o
 *		run - ./knn.o numTrainRow numTestRow numCol k
-*		for example 
+*		
+*			For example: 
 *			./knn.o 20 5 10 4
-*
 *			./knn.o 15997 4000 30000 5
-*
 *			./knn_new.o 69 20 1000 5
 */
 
